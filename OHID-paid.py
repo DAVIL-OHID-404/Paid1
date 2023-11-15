@@ -1299,7 +1299,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/Rx-Jishan/Tergat-fd-Hacker/blob/main/Approved.txt").text
+	r1=requests.get("https://github.com/DAVIL-OHID-404/Paid1/blob/main/Approved.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
